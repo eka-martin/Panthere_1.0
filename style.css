@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, 0.658);
 }
 
 .d-bloc .a-btn:hover,
@@ -281,6 +281,10 @@ a:hover {
 .row.row-no-gutters>[class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+}
+
+.row {
+    color: #242424;
 }
 
 #bloc-1-hero h1 {
@@ -658,7 +662,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    color: #242424 !important;
 }
 
 .container {
