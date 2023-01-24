@@ -4,6 +4,7 @@ Optimisation le référencement d'un site de l'agence "La Panthère" (SEO) en am
 2) Amélioration du SEO du site. 
 3) Comparaison des résultats.
 
+Le site est accessible sur github pages
 
 Assurer l'accessibilité d'un site web<br>
 Optimiser le référencement d'un site web<br>
